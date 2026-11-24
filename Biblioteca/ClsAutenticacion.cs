@@ -9,7 +9,7 @@ namespace Biblioteca
     public class ClsAutenticacion
     {
         public string Usuario = "Jeremy Klinger";
-        public string Clave = "JGKS2006";
+        public string Clave = "examen123";
 
         public bool Autenticacion(string usuario, string clave)
         {
